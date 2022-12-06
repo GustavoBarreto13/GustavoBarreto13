@@ -31,4 +31,4 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a> </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarreto13&layout=compact&langs_count=7&theme=dracula"/>
+

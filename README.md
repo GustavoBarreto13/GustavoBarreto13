@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gustavobarreto1304@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gusstavo42/]([https://www.linkedin.com/in/gusstavo42/)]
+- 📄 Know about my experiences [https://www.linkedin.com/in/gusstavo42/](https://www.linkedin.com/in/gusstavo42/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

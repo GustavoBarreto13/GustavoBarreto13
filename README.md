@@ -7,7 +7,7 @@
 
 <img align="left" height="125" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 <h1 align="center">Hello there 👋, I'm Gustavo</h1>
-<h3 align="center">Software Development student.</h3><br>
+<h3 align="center">Data Analyst.</h3><br>
 
 - 📫 How to reach me **gustavobarreto1304@gmail.com**
 

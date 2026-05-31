@@ -1,6 +1,6 @@
 ```diff
 + Living in São Paulo, Brazil.
-+ Software Development student.
++ Data Analyst.
 - 27 Years Old.
 ! Studyholic, Nerd and some other Stuff.
 ```
